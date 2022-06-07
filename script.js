@@ -1,5 +1,5 @@
 
-const okBtn = document.getElementById("ok");
+const okBtn = document.getElementById("btn");
 const tdCell = document.getElementById("cell");
 
 okBtn.addEventListener("touchstart", (e) => {
